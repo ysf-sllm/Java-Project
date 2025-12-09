@@ -537,12 +537,3 @@ IObservateur
 IGestionnaireTemps
 
 
-💡 Patterns de conception recommandés
-
-Singleton : AppareilEmpreinte
-Observer : Pour les mises à jour en temps réel des statistiques
-Factory : Pour créer les différents types de rapports
-Strategy : Pour gérer les différents types de séances (présentiel/en ligne)
-MVC : Architecture globale du projet
-
-Cette architecture respecte les principes SOLID et garantit une séparation claire des responsabilités !
