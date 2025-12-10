@@ -9,7 +9,7 @@ import Models.*;
  * TODO: Implement the model classes (Utilisateur, Professeur, Etudiant, Cours, Seance, etc.)
  * with full attributes and methods as described in README.md
  */
-public class SceanceController {
+public class SeanceController {
 
     /**
      * Launches a new session for a course.
