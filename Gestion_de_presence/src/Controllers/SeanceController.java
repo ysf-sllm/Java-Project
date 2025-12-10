@@ -16,8 +16,8 @@ public class SeanceController {
      * @param cours the course for the session
      * @return the new Seance object
      */
-    public Seance lancerSeance(Cours cours) {
-        return new Seance();
+    public SeanceController lancerSeance(Cours cours) {
+        return new SeanceController();
     }
 
     /**
